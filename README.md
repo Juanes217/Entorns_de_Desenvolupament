@@ -5,13 +5,13 @@
 ### Marc Casado  (Rol: Integrator)
 ### Nil Garcia (Rol: Reviewer)
 
-##Hemos desarrollado una herramienta en Python que permite realizar cálculos geométricos. El programa ofrece un menú interactivo para calcular:
+## Hemos desarrollado una herramienta en Python que permite realizar cálculos geométricos. El programa ofrece un menú interactivo para calcular:
 
-    *Áreas: Cuadrados, círculos y triángulos.
+    ** Áreas: Cuadrados, círculos y triángulos.
 
-    *Perímetros: Cálculo de contornos de diversas figuras.
+    ** Perímetros: Cálculo de contornos de diversas figuras.
 
-    *Conversiones: Funcionalidades auxiliares relacionadas con medidas geométricas.
+    ** Conversiones: Funcionalidades auxiliares relacionadas con medidas geométricas.
 
 ## Cómo ejecutarlo
 
