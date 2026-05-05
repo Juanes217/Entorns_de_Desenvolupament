@@ -1,4 +1,4 @@
-# Proyecto calculadora
+# Entorns_de_Desenvolupament calculadora
 import areas
 import perimetros
 
