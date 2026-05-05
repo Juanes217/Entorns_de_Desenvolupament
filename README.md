@@ -18,4 +18,4 @@
 2. Descarga o clona el repositorio.
 3. Ejecuta el archivo principal en tu terminal:
 ```bash
-python main.py
+python3 main.py
