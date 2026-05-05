@@ -1,4 +1,4 @@
-import math
+import math # Calculos de geometria
 
 def area_cuadrado(lado):
     return lado * lado
